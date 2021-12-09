@@ -1,0 +1,5 @@
+.env
+.nyc_output
+coverage
+mochawesome-report
+node_modules
